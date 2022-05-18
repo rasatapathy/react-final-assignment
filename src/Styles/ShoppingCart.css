@@ -1,0 +1,40 @@
+.saved_amount{
+    color: green;
+}
+
+.sc_mycart_contents {
+    font-size: 14px;
+    box-shadow: 0px 2px 0px 0px #88888878;
+
+    
+}
+
+
+.sc_mycart_tab {
+    display: flex;
+    border-radius: 3px;
+    background: #F5F5F5 0% 0% no-repeat;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 90%;
+    align-items: flex-start;
+    height: 300px;
+    flex-direction: column;
+}
+
+
+.recommended_courses{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    border: grey double 1px;
+    /* width: 90%; */
+}
+.recommended_courses_text{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
