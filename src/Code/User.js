@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+// import { NavLink } from "react-router-dom";
 function User() {
   return (
     <div className="user_profile">
@@ -10,6 +10,7 @@ function User() {
         </span>
         <img
           className="react_img"
+          alt=""
           src="https://cdn.sanity.io/images/ay6gmb6r/production/1233ce7b2eab4261d9a77e86797b523dd652475e-2240x1260.png?w=800&h=450&fit=crop"
         />
       </div>
@@ -17,6 +18,7 @@ function User() {
         <div className="form_left">
           <img
             className="profile_pic"
+            alt=""
             src="https://st2.depositphotos.com/2783505/8278/i/600/depositphotos_82784040-stock-photo-passport-picture-of-a-cool.jpg"
           />
         </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
+// import { NavLink } from "react-router-dom";
 import { getCourses } from './CourseList';
 export default function HomePage() {
     const courses = getCourses();

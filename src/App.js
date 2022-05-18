@@ -12,10 +12,10 @@ import "./Styles/User.css";
 import Header from "./Code/Header";
 import HomePage from './Code/HomePage';
 import MyWishlist from './Code/MyWishlist';
-import CourseDetails from './Code/CourseDetails';
+// import CourseDetails from './Code/CourseDetails';
 import ShoppingCart from './Code/ShoppingCart';
 import User from './Code/User';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+// import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
